@@ -1,0 +1,10 @@
+Myrepo is a small build and deployment helper tool for custom yum repositories
+originally written in python and re-written in Haskell now.
+
+* URL: https://github.com/ssato/myrepo
+* License: BSD3
+* Author: Satoru SATOH <ssato@redhat.com>
+
+
+NOTE: older version of myrepo is in rpmkit which available from
+https://github.com/ssato/rpmkit.
